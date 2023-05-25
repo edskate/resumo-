@@ -13,3 +13,6 @@
 ```
 
 ### practice
+
+- creating like this:
+- Models in a demonstrative way, but that the public has access to the commands in a practical way.
